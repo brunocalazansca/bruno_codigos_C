@@ -1,0 +1,23 @@
+# ninja log v5
+0	89	7046613556544952	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+91	220	7046613557802299	calculadora_de_binario.exe	b10d9392231f772f
+3	79	7046613753767943	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+79	176	7046613754707789	calculadora_de_binario.exe	b10d9392231f772f
+2	73	7046614560936684	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+74	177	7046614561945486	calculadora_de_binario.exe	b10d9392231f772f
+3	78	7046616439626920	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+78	177	7046616440598931	calculadora_de_binario.exe	b10d9392231f772f
+2	83	7046618835250674	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+84	193	7046618836309142	calculadora_de_binario.exe	b10d9392231f772f
+2	100	7046621345083540	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+100	217	7046621346207510	calculadora_de_binario.exe	b10d9392231f772f
+2	91	7046622819775079	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+91	203	7046622820851674	calculadora_de_binario.exe	b10d9392231f772f
+2	81	7046624064100142	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+81	186	7046624065111754	calculadora_de_binario.exe	b10d9392231f772f
+1	80	7046626197856612	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+80	184	7046626198861582	calculadora_de_binario.exe	b10d9392231f772f
+1	82	7046627246482543	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+83	182	7046627247449585	calculadora_de_binario.exe	b10d9392231f772f
+2	93	7046627694379313	CMakeFiles/calculadora_de_binario.dir/main.c.obj	5766437cd371f238
+93	225	7046627695680311	calculadora_de_binario.exe	b10d9392231f772f

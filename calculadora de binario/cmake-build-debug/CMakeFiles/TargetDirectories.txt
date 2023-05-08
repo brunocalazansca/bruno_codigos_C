@@ -1,0 +1,3 @@
+C:/Users/Bruno/CLionProjects/calculadora de binario/cmake-build-debug/CMakeFiles/calculadora_de_binario.dir
+C:/Users/Bruno/CLionProjects/calculadora de binario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruno/CLionProjects/calculadora de binario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

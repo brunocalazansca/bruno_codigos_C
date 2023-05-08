@@ -1,0 +1,3 @@
+C:/Users/Bruno/CLionProjects/densidade/cmake-build-debug/CMakeFiles/densidade.dir
+C:/Users/Bruno/CLionProjects/densidade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruno/CLionProjects/densidade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
